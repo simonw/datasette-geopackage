@@ -7,11 +7,19 @@
 
 Datasette plugin for working with GeoPackage databases
 
+## Status
+
+This package does almost nothing useful yet. It has not been published to PyPI.
+
+<!--
+
 ## Installation
 
 Install this plugin in the same environment as Datasette.
 
     datasette install datasette-geopackage
+
+-->
 
 ## Usage
 
